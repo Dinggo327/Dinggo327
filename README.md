@@ -1,4 +1,4 @@
-### Hi! I am Dinggo👋
+### Hi! I'm Dinggo👋
 
 <!--
 **Dinggo327/Dinggo327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
